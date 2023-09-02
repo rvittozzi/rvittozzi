@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me on discord @nomithergaming
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvittozzi)](https://github.com/rvittozzi/github-readme-stats)
+
+
 <!---
 rvittozzi/rvittozzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
