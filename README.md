@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rvittozzi
+- 👋 Hi, I’m Rob
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python Game Development & Pygame
 - 💞️ I’m looking to collaborate on anything
