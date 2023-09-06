@@ -7,6 +7,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvittozzi)](https://github.com/rvittozzi/github-readme-stats)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=rvittozzi.rvittozzi)
 
 <!---
 rvittozzi/rvittozzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
