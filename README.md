@@ -14,6 +14,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvittozzi)](https://github.com/rvittozzi/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvittozzi&theme=tokyonight)
+![](https://visitor-badge.laobi.icu/badge?page_id=rvittozzi.rvittozzi)
 
 
 
